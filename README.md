@@ -36,6 +36,6 @@ Put your key into 5th and 9th cell in correlation_block_businesses.ipynb to use 
 
 ## Authors
 
-* **Mingdao Che** - *3D work* - [Repo](https://github.com/mdche001/)
-* **Yuncheng Zhu** - *Training work* 
-* **Zhengyang Tang** - *Website work*
+* **Mingdao Che** - *nan* - [Repo](https://github.com/mdche001/)
+* **Yuncheng Zhu** - *nan* 
+* **Zhengyang Tang** - *nan*
