@@ -1,6 +1,6 @@
 # CS506_Bike_Lane Team
-Team Member: Mingdao Che, Yuncheng Zhu, Zhengyang Tang
-To Analyze the data of Boston Bike to figure out the correlation between bike crashes, bike count, businesses and bike lane blocks.
+Team Member: Mingdao Che, Yuncheng Zhu, Zhengyang Tang <br>
+To Analyze the data of Boston Bike to figure out the correlation between bike crashes, bike count, businesses and bike lane blocks.<br>
 
 ## Model diagram
 
