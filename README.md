@@ -16,7 +16,7 @@ These instructions will help you to run this project on your own machines or pla
 ### Prerequisites
 
 #### Package:
-Python Version: 3.6/3.7<br>		
+Python Version: 3.6/3.7 - https://www.python.org/downloads/<br>		
 
 Type command: `pip3/pip install -r requirements.txt` in the terminal of outside folder (which has requirements.txt) to install all the packages.
 
