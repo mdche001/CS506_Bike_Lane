@@ -18,7 +18,7 @@ These instructions will help you to run this project on your own machines or pla
 #### Package:
 Python Version: 3.6/3.7<br>		
 
-Type command: 'pip3 install -r requirements.txt' in the terminal of outside folder (which has requirements.txt)
+Type command: `pip3 install -r requirements.txt` in the terminal of outside folder (which has requirements.txt) to install all the packages.
 
 #### Dataset:
 Following dataset are the dataset we used in our code, you need download all these data to run our code succesfully.
