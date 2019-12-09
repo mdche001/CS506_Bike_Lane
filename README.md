@@ -41,6 +41,12 @@ The code files end with .ipynb are the Jupiter version and need to use Jupiter/J
 
 Put your key into 5th and 9th cell in correlation_block_businesses.ipynb to use google map API to find the nearby businesses.
 
+Firstly run 'bike_lane_filter.ipynb' to create the bike_block.csv file, which is the filtered bike block data.
+
+Secondly run 'problem_3.py' to create the processed bike block data of both Boston and Cambridge's 311 data.
+
+Then run the other code named by the problem's name or problem's number.
+
 ## Authors
 
 * **Mingdao Che** - *nan* - [Repo](https://github.com/mdche001/)
