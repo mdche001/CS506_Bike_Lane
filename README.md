@@ -21,7 +21,7 @@ Python Version: 3.6/3.7<br>
 Type command: `pip3/pip install -r requirements.txt` in the terminal of outside folder (which has requirements.txt) to install all the packages.
 
 #### Dataset:
-Following dataset are the dataset we used in our code, you need download all these data to run our code succesfully.
+Following dataset are the dataset we used in our code, you need download all these data in the src folder to run our code succesfully.
 
 311 Service Requests: https://data.boston.gov/dataset/311-service-requests
 
