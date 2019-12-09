@@ -34,7 +34,7 @@ Following dataset are the dataset we used in our code, you need download all the
 - HSIP Bicycle Crash Clusters 2007 - 2016: https://geo-massdot.opendata.arcgis.com/datasets/hsip-bicycle-crash-clusters-2007-2016
 
 #### Key needed: 
-Google Maps API Key<br>
+Google Maps Places API Key: https://developers.google.com/places/web-service/get-api-key<br>
 
 ## Running the source code
 
