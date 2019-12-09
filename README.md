@@ -20,6 +20,12 @@ Python Version: 3.6/3.7 - https://www.python.org/downloads/<br>
 
 Type command: `pip3/pip install -r requirements.txt` in the terminal of outside folder (which has requirements.txt) to install all the packages.
 
+### Software:
+
+Normal IDE for python like pycharm will work.
+
+Jupiter/Jupiter Lab is needed for some of our code (.ipynb files).
+
 #### Dataset:
 Following dataset are the dataset we used in our code, you need download all these data in the src folder to run our code succesfully.
 
