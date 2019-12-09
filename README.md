@@ -23,15 +23,15 @@ Type command: `pip3/pip install -r requirements.txt` in the terminal of outside 
 #### Dataset:
 Following dataset are the dataset we used in our code, you need download all these data in the src folder to run our code succesfully.
 
-311 Service Requests: https://data.boston.gov/dataset/311-service-requests
+- 311 Service Requests: https://data.boston.gov/dataset/311-service-requests
 
-Bike Count Data: https://www.boston.gov/departments/boston-bikes/bike-data
+- Bike Count Data: https://www.boston.gov/departments/boston-bikes/bike-data
 
-Cambridge 311 Data: https://data.cambridgema.gov/browse?q=bike
+- Cambridge 311 Data: https://data.cambridgema.gov/browse?q=bike
 
-Bike Crash Data: https://data.boston.gov/dataset/vision-zero-crash-records
+- Bike Crash Data: https://data.boston.gov/dataset/vision-zero-crash-records
 
-HSIP Bicycle Crash Clusters 2007 - 2016: https://geo-massdot.opendata.arcgis.com/datasets/hsip-bicycle-crash-clusters-2007-2016
+- HSIP Bicycle Crash Clusters 2007 - 2016: https://geo-massdot.opendata.arcgis.com/datasets/hsip-bicycle-crash-clusters-2007-2016
 
 #### Key needed: 
 Google Maps API Key<br>
