@@ -49,6 +49,9 @@ Note:
 - The code files end with .ipynb are the Jupiter version and need to use Jupiter/Jupiter Lab to run the program.
 
 - Put your key into 5th and 9th cell in correlation_block_businesses.ipynb to use google map API to find the nearby businesses.
+
+## Result:
+The conclusion and the visualizations we got for each problem is shown in the report pdf.
 ## Authors
 
 * **Mingdao Che** - *nan* - [Repo](https://github.com/mdche001/)
