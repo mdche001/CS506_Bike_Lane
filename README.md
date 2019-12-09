@@ -37,16 +37,18 @@ HSIP Bicycle Crash Clusters 2007 - 2016: https://geo-massdot.opendata.arcgis.com
 Google Maps API Key<br>
 
 ## Running the source code
-The code files end with .ipynb are the Jupiter version and need to use Jupiter/Jupiter Lab to run the program.
 
-Put your key into 5th and 9th cell in correlation_block_businesses.ipynb to use google map API to find the nearby businesses.
+- 1. Run 'bike_lane_filter.ipynb' to create the bike_block.csv file, which is the filtered bike block data.
 
-Firstly run 'bike_lane_filter.ipynb' to create the bike_block.csv file, which is the filtered bike block data.
+- 2. Run 'problem_3.py' to create the processed bike block data (Boston_Cambridge.csv) of both Boston and Cambridge's 311 data.
 
-Secondly run 'problem_3.py' to create the processed bike block data of both Boston and Cambridge's 311 data.
+- 3. Run the other code named by the problem's name or problem's number.
 
-Then run the other code named by the problem's name or problem's number.
+Note:
 
+- The code files end with .ipynb are the Jupiter version and need to use Jupiter/Jupiter Lab to run the program.
+
+- Put your key into 5th and 9th cell in correlation_block_businesses.ipynb to use google map API to find the nearby businesses.
 ## Authors
 
 * **Mingdao Che** - *nan* - [Repo](https://github.com/mdche001/)
