@@ -38,11 +38,11 @@ Google Maps API Key<br>
 
 ## Running the source code
 
-- 1. Run 'bike_lane_filter.ipynb' to create the bike_block.csv file, which is the filtered bike block data.
+1. Run 'bike_lane_filter.ipynb' to create the bike_block.csv file, which is the filtered bike block data.
 
-- 2. Run 'problem_3.py' to create the processed bike block data (Boston_Cambridge.csv) of both Boston and Cambridge's 311 data.
+2. Run 'problem_3.py' to create the processed bike block data (Boston_Cambridge.csv) of both Boston and Cambridge's 311 data.
 
-- 3. Run the other code named by the problem's name or problem's number.
+3. Run the other code named by the problem's name or problem's number.
 
 Note:
 
