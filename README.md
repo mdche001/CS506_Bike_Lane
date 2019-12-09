@@ -2,12 +2,6 @@
 Team Member: Mingdao Che, Yuncheng Zhu, Zhengyang Tang <br>
 To Analyze the data of Boston Bike to figure out the correlation between bike crashes, bike count, businesses and bike lane blocks.<br>
 
-## Model diagram
-
-The diagram of raw detection is as follows
-
-![image](...) 
-
 
 ## Getting Started
 
