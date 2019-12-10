@@ -56,4 +56,4 @@ The conclusion and the visualizations we got for each problem is shown in the re
 
 * **Mingdao Che** - *nan* - [Repo](https://github.com/mdche001/)
 * **Yuncheng Zhu** - *nan* [Repo](https://github.com/YanzuWuu)
-* **Zhengyang Tang** - *nan*
+* **Zhengyang Tang** - *nan*[Repo](https://github.com/ZhengyangTang)
